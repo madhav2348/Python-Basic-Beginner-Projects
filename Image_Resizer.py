@@ -3,7 +3,7 @@
 from PIL import Image
 
 def resizing(size1,size2):
-    image = Image.open('image location name')
+    image = Image.open('image location name') #here is not location
 
     print(f"current size:{image.size}")
 
